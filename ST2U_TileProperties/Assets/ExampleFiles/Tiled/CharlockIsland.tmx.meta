@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 50e4bba5ba64157419dc4828a9abe478
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/CharlockIsland
+    100016: _MapPrfab/CharlockIsland/Terrain
+    400000: _MapPrfab/CharlockIsland/Transform
+    400016: _MapPrfab/CharlockIsland/Terrain/Transform
+    11400000: _MapPrfab/CharlockIsland/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/CharlockIsland/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400046: _superAsset
+    11400048: _MapPrfab/CharlockIsland/Terrain/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400050: _MapPrfab/CharlockIsland/Terrain/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400052: _MapPrfab/CharlockIsland/Terrain/MonoBehaviour-SuperTiled2Unity.TilemapData
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/CharlockIsland/Grid
+    3664157343022684190: _MapPrfab/CharlockIsland/Terrain/TilemapRenderer
+    8195094279510102556: _MapPrfab/CharlockIsland/Terrain/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 1
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: 2d248bedf112ea14ba05ab5568851b83
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_Tiles_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_Tiles_1
+    11400006: Tile_Tiles_2
+    11400008: Tile_Tiles_3
+    11400010: Tile_Tiles_4
+    11400012: Tile_Tiles_5
+    11400014: Tile_Tiles_6
+    11400016: Tile_Tiles_7
+    11400018: Tile_Tiles_8
+    11400020: Tile_Tiles_9
+    11400022: Tile_Tiles_10
+    11400024: Tile_Tiles_11
+    11400026: Tile_Tiles_12
+    11400028: Tile_Tiles_13
+    11400030: Tile_Tiles_14
+    11400032: Tile_Tiles_15
+    11400034: Tile_Tiles_16
+    11400036: Tile_Tiles_17
+    11400038: Tile_Tiles_18
+    11400040: Tile_Tiles_19
+    11400042: Tile_Tiles_20
+    11400044: Tile_Tiles_21
+    11400046: Tile_Tiles_22
+    11400048: Tile_Tiles_23
+    11400050: Tile_Tiles_24
+    11400052: Tile_Tiles_25
+    11400054: Tile_Tiles_26
+    11400056: Tile_Tiles_27
+    11400058: Tile_Tiles_28
+    11400060: Tile_Tiles_29
+    11400062: Tile_Tiles_30
+    11400064: Tile_Tiles_31
+    11400066: Tile_Tiles_32
+    11400068: Tile_Tiles_33
+    11400070: Tile_Tiles_34
+    11400072: Tile_Tiles_35
+    11400074: Tile_Tiles_36
+    21300000: Sprite_Tiles_1
+    21300002: Sprite_Tiles_2
+    21300004: Sprite_Tiles_3
+    21300006: Sprite_Tiles_4
+    21300008: Sprite_Tiles_5
+    21300010: Sprite_Tiles_6
+    21300012: Sprite_Tiles_7
+    21300014: Sprite_Tiles_8
+    21300016: Sprite_Tiles_9
+    21300018: Sprite_Tiles_10
+    21300020: Sprite_Tiles_11
+    21300022: Sprite_Tiles_12
+    21300024: Sprite_Tiles_13
+    21300026: Sprite_Tiles_14
+    21300028: Sprite_Tiles_15
+    21300030: Sprite_Tiles_16
+    21300032: Sprite_Tiles_17
+    21300034: Sprite_Tiles_18
+    21300036: Sprite_Tiles_19
+    21300038: Sprite_Tiles_20
+    21300040: Sprite_Tiles_21
+    21300042: Sprite_Tiles_22
+    21300044: Sprite_Tiles_23
+    21300046: Sprite_Tiles_24
+    21300048: Sprite_Tiles_25
+    21300050: Sprite_Tiles_26
+    21300052: Sprite_Tiles_27
+    21300054: Sprite_Tiles_28
+    21300056: Sprite_Tiles_29
+    21300058: Sprite_Tiles_30
+    21300060: Sprite_Tiles_31
+    21300062: Sprite_Tiles_32
+    21300064: Sprite_Tiles_33
+    21300066: Sprite_Tiles_34
+    21300068: Sprite_Tiles_35
+    21300070: Sprite_Tiles_36
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 1
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 75
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
