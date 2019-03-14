@@ -2,12 +2,13 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using SuperTiled2Unity;
+using TMPro;
 
 public class GetTileProperties : MonoBehaviour
 {
     private void Update()
     {
-        if (Input.GetMouseButtonUp(0))
+        //if (Input.GetMouseButtonUp(0))
         {
             var camera = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
             var tilemap = GameObject.FindGameObjectWithTag("TerrainMap").GetComponent<Tilemap>();
@@ -18,7 +19,9 @@ public class GetTileProperties : MonoBehaviour
             {
                 if (tile.m_CustomProperties.TryGetProperty("tile-type", out CustomProperty property))
                 {
-                    Debug.LogFormat("Tile type: {0}", property.m_Value);
+                    var text = GameObject.FindGameObjectWithTag("TileTypeText").GetComponent<TextMeshProUGUI>();
+                    text.text = property.m_Value;
+                    //Debug.LogFormat("Tile type: {0}", property.m_Value);
                 }
             }
         }

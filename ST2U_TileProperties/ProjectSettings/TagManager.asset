@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - TerrainMap
+  - TileTypeText
+  - TileTypePanel
   layers:
   - Default
   - TransparentFX
