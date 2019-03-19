@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 0fd821bb8fd41ad438eaf6a506be70f2
+ScriptedImporter:
+  fileIDToRecycleName:
+    100002: _main/erdrick-sprite
+    400002: _main/erdrick-sprite/Transform
+    2800000: tex2d_0
+    2800002: tex2d_1
+    2800004: tex2d_2
+    2800006: tex2d_3
+    2800008: tex2d_4
+    2800010: tex2d_5
+    2800012: tex2d_6
+    2800014: tex2d_7
+    7400008: anim_Untagged
+    7400010: anim_Erd_Down
+    7400012: anim_Erd_Left
+    7400014: anim_Erd_Up
+    7400016: anim_Erd_Right
+    9500002: _main/erdrick-sprite/Animator
+    21200002: _main/erdrick-sprite/SpriteRenderer
+    21300000: sprite_0
+    21300002: sprite_1
+    21300004: sprite_2
+    21300006: sprite_3
+    21300008: sprite_4
+    21300010: sprite_5
+    21300012: sprite_6
+    21300014: sprite_7
+    100100000: _main
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b1577cdc41d01fa4dbf68ad51122a765, type: 3}
+  pixelsPerUnit: 1
+  spriteAtlas: {instanceID: 0}
+  frameRate: 60
+  sortingLayerName: 
+  sortingOrder: 0
+  animatorCullingMode: 0
+  animatorController: {fileID: 9100000, guid: 92ae6c2019f7b1f49a2a0fd3e1046b17, type: 2}
+  errors: []
