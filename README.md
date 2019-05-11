@@ -13,7 +13,7 @@ Generally, you will need the following data or objects when retrieving data from
 1. A Unity `Tilemap` instance.
 2. A `Vector3Int` representing the location on the `Tilemap` you are interested in. You can use the `Tilemap.WorldToCell` to transform a Vector3 in world-space to a cell on your tilemap.
 3. A `SuperTiled2Unity.SuperTile` instance. Use `Tilemap.GetTile` to a `TileBase` instance and cast it to a SuperTile.
-4. Call an extension method on the `SuperTile` to get the value of a property you want. For example, `SuperTile.GetPropertyValueAsString()`. (There are versions of that method that can get custom property values as a `string`, `float`, `bool`, `enum`, and `Color`.)
+4. Call an extension method on the `SuperTile` to get the value of a property you want. For example, `SuperTile.GetPropertyValueAsString()`. There are versions of that method that can get custom property values as a `string`, `float`, `bool`, `enum`, and `Color`.
 
 In this project, the `PlayerTerrain` class has the code example that should serve as a guide.
 
